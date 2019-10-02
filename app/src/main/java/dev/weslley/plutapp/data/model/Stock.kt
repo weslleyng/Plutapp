@@ -1,4 +1,4 @@
-package dev.weslley.plutapp.model
+package dev.weslley.plutapp.data.model
 
 import com.google.gson.annotations.SerializedName
 

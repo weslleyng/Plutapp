@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Plutapp</string>
+    <string name="email_hint">E-mail de usuário</string>
 </resources>

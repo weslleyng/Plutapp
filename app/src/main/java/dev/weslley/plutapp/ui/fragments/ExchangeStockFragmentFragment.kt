@@ -1,4 +1,4 @@
-package dev.weslley.plutapp.fragments
+package dev.weslley.plutapp.ui.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater
